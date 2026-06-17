@@ -1,0 +1,7 @@
+﻿venv/
+.env
+workspace/*
+!workspace/.gitkeep
+__pycache__/
+*.pyc
+.streamlit/
